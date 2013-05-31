@@ -1,0 +1,20 @@
+{
+	"name": "unicorn",
+	"homepage": "http://github.com/rafaelrinaldi/unicorn",
+	"version": "0.0.0",
+	"author": "Rafael Rinaldi <rafael.rinaldi@gmail.com>",
+	"description": "Add some color to your command line.",
+	"keywords": ["unicorn", "cli", "color", "style"],
+	"main": "lib/unicorn.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rafaelrinaldi/unicorn.git"
+	},
+	"dependencies": {
+		"mout": ">= 0.6.0"
+	},
+	"licenses": [{
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }]
+}
