@@ -39,7 +39,7 @@ Add some color to your command line.
 </table>
 
 ## Installation
-Unicorn is available though NPM, so all you have to do is:
+Unicorn is available through NPM, so all you have to do is:
 
 	npm install unicorn
 
