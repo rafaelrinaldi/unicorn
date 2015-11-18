@@ -1,3 +1,6 @@
+> # Deprecation notice :rotating_light:
+> This project is no longer being maintened by me. If you want to take ownership over it, just [ping me](https://github.com/rafaelrinaldi/contact).
+
 #unicorn
 Add some color to your command line.
 
