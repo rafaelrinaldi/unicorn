@@ -1,5 +1,7 @@
 > # Deprecation notice :rotating_light:
-> This project is no longer being maintened by me. If you want to take ownership over it, just [ping me](https://github.com/rafaelrinaldi/contact).
+> This project is no longer being maintened by me. If you want to take ownership over it, just [ping me](https://github.com/rafaelrinaldi/contact).  
+>
+> I suggest you to use [`chalk`](https://github.com/sindresorhus/chalk) instead. It has a stable API and it is today what I wanted `unicorn` to be when I first wrote it.
 
 #unicorn
 Add some color to your command line.
